@@ -1,0 +1,13 @@
+# jobsheet1
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/biodata.JPG)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/konversi%20suhu.JPG)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/luas%20bola.JPG)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/testsiswa.JPG)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/uji%20bus%203.JPG)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/ujibus1.JPG)
