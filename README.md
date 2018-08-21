@@ -11,3 +11,13 @@ Hasil screnshoot
 ![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/uji%20bus%203.JPG)
 Hasil screnshoot
 ![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/ujibus1.JPG)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/fungsi%20123.JPG)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/fungsi%20pengembalian%20nilai.JPG)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/penyataan%20do%20while.JPG)
+Hasil screnshoot
+![alt text](https://github.com/nofelasogi/jobsheet1/blob/master/pilihan%20menu.JPG)
